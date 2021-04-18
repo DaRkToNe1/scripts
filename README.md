@@ -1,3 +1,2 @@
 # scripts
-# scripts
-# scripts
+scripts i made
